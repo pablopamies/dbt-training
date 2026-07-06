@@ -1,0 +1,1 @@
+select 'Hola' as saludo, 'Adiós' as saludo2
